@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Hiu" size="1414.000000 2000.000000" />
+    <ImageTarget name="HIULAGI" size="432.000000 611.032532" />
+    <ImageTarget name="4" size="432.000000 611.032532" />
+    <ImageTarget name="3" size="432.000000 611.032532" />
+    <ImageTarget name="2" size="432.000000 611.032532" />
+    <ImageTarget name="cover" size="432.000000 611.032532" />
+  </Tracking>
+</QCARConfig>
